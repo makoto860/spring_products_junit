@@ -40,7 +40,7 @@ public class Product {
     public void setReservationDate(LocalDateTime reservation_date) {
         this.reservation_date = reservation_date;
     }
-    
+
     public String getCaption() {
         return caption;
     }
